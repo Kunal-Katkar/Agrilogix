@@ -30,28 +30,14 @@ dist-ssr
 
 # Project documents that are not part of the code
 *.pptx
-*.potx
-*.docx
-*.dotx
-*.pdf
-Report/
-~$*
-What to be done.md
-docs/DEVELOPMENT_REPORT.md
-Dataset.csv
-
-# Academic deliverables (kept locally, not in the repo)
-Report/
-*.pptx
 *.ppt
 *.potx
 *.docx
 *.doc
 *.dotx
 *.pdf
-What to be done.md
-# Office lock/temp files
+Report/
 ~$*
-
-# Data dumps and local scratch
+What to be done.md
+docs/DEVELOPMENT_REPORT.md
 Dataset.csv
